@@ -166,6 +166,7 @@ _Dynamic menu updates based on login status_
 
 ## 📁 **Project Structure**
 
+```
 php-project01/ ← Main Project Folder
 │
 ├── 📄 index.php # Home page
@@ -197,6 +198,9 @@ php-project01/ ← Main Project Folder
 ├── 📂 .git/ # Git version control (hidden)
 ├── 📄 .gitignore # Files to ignore in Git
 └── 📄 .gitattributes # Git file attributes
+
+
+```
 
 ---
 
