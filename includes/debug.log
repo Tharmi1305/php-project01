@@ -1,0 +1,28 @@
+[2025-12-01 08:45:39] Signup attempt started
+[2025-12-01 08:45:39] Submit button detected
+[2025-12-01 08:45:39] Data: John Doe,  john@example.com, johndoe
+[2025-12-01 08:45:39] Error: Invalid email
+[2025-12-01 09:36:56] Signup attempt started
+[2025-12-01 09:36:56] Submit button detected
+[2025-12-01 09:36:56] Data: Ganesh, abc@gmail.com, siva
+[2025-12-01 09:36:56] Calling createUser
+[2025-12-01 09:44:47] Signup attempt started
+[2025-12-01 09:44:47] Submit button detected
+[2025-12-01 09:44:47] Data: siva, sss@gmail.com, siva
+[2025-12-01 09:44:47] Error: Username taken
+[2025-12-01 09:45:50] Signup attempt started
+[2025-12-01 09:45:50] Submit button detected
+[2025-12-01 09:45:50] Data: muruga, mmm@gmail.com, muruga
+[2025-12-01 09:45:50] Error: Username taken
+[2025-12-01 09:46:43] Signup attempt started
+[2025-12-01 09:46:43] Submit button detected
+[2025-12-01 09:46:43] Data: ttt hhh, gngnn@gmail.com, ggg
+[2025-12-01 09:46:43] Error: Username taken
+[2025-12-01 09:50:45] Signup attempt started
+[2025-12-01 09:50:45] Submit button detected
+[2025-12-01 09:50:45] Data: ttt hhh, gngnn@gmail.com, ggg
+[2025-12-01 09:50:45] Error: Username taken
+[2025-12-01 09:57:36] Signup attempt started
+[2025-12-01 09:57:36] Submit button detected
+[2025-12-01 09:57:36] Data: ttt hhh, gngnn@gmail.com, ggg
+[2025-12-01 09:57:36] Error: Username taken
