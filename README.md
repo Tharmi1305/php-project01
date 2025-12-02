@@ -143,9 +143,8 @@ _Secure login form with error handling_
 _Personalized welcome after successful login_
 
 ### **⚙️ Navigation Changes**
-
-![Navigation](screenshots/navigation.png)
-_Dynamic menu updates based on login status_
+![Navigation](screenshots/welcome.png)
+*Dynamic menu updates based on login status*
 
 ---
 
