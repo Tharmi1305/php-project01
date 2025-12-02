@@ -152,7 +152,7 @@ _Dynamic menu updates based on login status_
 ## 🎬 **Video Demonstration**
 
 📺 **Watch the complete walkthrough:**  
-[Click here to watch the video](https://drive.google.com/video-link)
+[Click here to watch the video](https://drive.google.com/file/d/1oYDPg9LXP50u0QHN3qno--96Acu0BB_g/view?usp=drive_link)
 
 **Video covers:**
 
