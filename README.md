@@ -166,32 +166,37 @@ _Dynamic menu updates based on login status_
 
 ## 📁 **Project Structure**
 
-```
-php-project01/                           ← YOUR FOLDER NAME
+php-project01/ ← Main Project Folder
 │
-├── 📄 index.php              # Home page
-├── 📄 signup.php            # Registration page
-├── 📄 login.php             # Login page
-├── 📄 welcome.php           # welcome page (Welcome message with the username)
+├── 📄 index.php # Home page
+├── 📄 login.php # Login page
+├── 📄 signup.php # Registration page
+├── 📄 welcome.php # Welcome page (after login)
+├── 📄 README.md # This documentation file
 │
-├── 📂 includes/             # Backend logic
-│   ├── 📄 dbh.inc.php       # Database connection
-│   ├── 📄 signup.inc.php    # Registration handler
-│   ├── 📄 login.inc.php     # Login handler
-│   └── 📄 logout.inc.php    # Logout handler
+├── 📂 includes/ # Backend PHP Logic
+│ ├── 📄 header.php # Navigation & session management (PHP)
+│ ├── 📄 dbh.inc.php # Database connection (PHP)
+│ ├── 📄 functions.inc.php # Utility functions (PHP)
+│ ├── 📄 login.inc.php # Login authentication (PHP)
+│ ├── 📄 login-process.php # Login processing logic (PHP)
+│ ├── 📄 signup.inc.php # User registration (PHP)
+│ ├── 📄 signup-process.php# Signup processing logic (PHP)
+│ └── 📄 logout.inc.php # Session destruction (PHP)
 │
-├── 📂 css/                  # Stylesheets
-│   └── 📄 style.css         # Main styling
+├── 📂 css/ # Stylesheets
+│ ├── 📄 reset.css # CSS reset for consistency
+│ └── 📄 style.css # Main styling and design
 │
-├── 📂 screenshots/          # Project images
-│   ├── 📄 home.png
-│   ├── 📄 signup.png
-│   └── 📄 login.png
+├── 📂 screenshots/ # Project Screenshots
+│ ├── 📄 home.png # Home page screenshot
+│ ├── 📄 login.png # Login page screenshot
+│ ├── 📄 signup.png # Registration page screenshot
+│ └── 📄 welcome.png # Welcome page after login
 │
-├── 📄 README.md             # This file
-├── 📄 .gitignore            # Git ignore rules
-└── 📄 database.sql          # Database schema
-```
+├── 📂 .git/ # Git version control (hidden)
+├── 📄 .gitignore # Files to ignore in Git
+└── 📄 .gitattributes # Git file attributes
 
 ---
 
